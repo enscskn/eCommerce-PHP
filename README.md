@@ -1,4 +1,4 @@
-# E-Ticaret Projesi Detaylı Notlar
+# E-Ticaret Projesi
 
 ## 1. Proje Hakkında Genel Bakış ve Yapı
 
